@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Maryam-921/FM-Order-Summary.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://maryam-921.github.io/FM-Order-Summary/]
 
 ## My process
 - i started with the card first, adding the image and text.
